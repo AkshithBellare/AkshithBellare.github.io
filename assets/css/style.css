@@ -1088,3 +1088,19 @@ section {
     margin: auto;
   }
 } 
+
+@media (max-width: 992px) {
+  .icon-container {
+    margin: 10px;
+    height: 80px;
+  }
+
+  .icon-container > img {
+    height: 60px;
+  }
+
+  .carousel-caption {
+    font-size: 10px;
+    padding: 5px;
+  }
+} 
