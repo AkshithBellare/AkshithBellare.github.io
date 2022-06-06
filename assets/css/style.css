@@ -1104,3 +1104,8 @@ section {
     padding: 5px;
   }
 } 
+
+
+#about  p {
+  text-align: justify;
+}
